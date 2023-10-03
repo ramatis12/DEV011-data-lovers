@@ -165,13 +165,16 @@ Los usuarios pueden filtrar la información según sus intereses e ir más a fon
 
 ## 4. Testeos de usabilidad
 * Diseño 
-   La imagen de fondo daba la sensación de pixeleado 
-   Las letras
+    La imagen de fondo daba la sensación de pixeleado, se cambió la imagen del background para evitar esa sensación 
+    Las letras originales se veían muy pequeñas, se cambió el tamaño
+    Había poco contraste con el overlay, se colocó un fondo más sólido
+    El hover parecía que no funcionaría en el celular, se testeo y funciona al hacer tap
+   
 * Interacción
+    El responsive dejó de funcionar y no se ajustaba a las diferentes pantallas, se solucionó en el último sprint y ahora funciona
+    Al principio se agregó toda la información en la misma página y se saturaba la pantalla, se agregó una hoja por película con la información de personajes, vehículos y locaciones para evitar esta saturación
+    Se detectó que el hover y el menú no eran tan intuitivos como pensabamos, se agregaron instrucciones. 
 
- Cuéntanos qué problemas de usabilidad detectaste a través de los tests y cómo los mejoraste en tu propuesta final.
 
-Implementación de la Interfaz de Usuario (HTML/CSS/JS)
-Luego de diseñar tu interfaz de usuario deberás trabajar en su implementación. No es necesario que construyas la interfaz exactamente como la diseñaste. Tu tiempo de hacking es escaso, así que deberás priorizar.
 
-Revisa las funcionalidades que el proyecto pide del interfaz.
+
