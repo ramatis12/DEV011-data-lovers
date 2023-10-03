@@ -163,8 +163,13 @@ Los usuarios pueden filtrar la información según sus intereses e ir más a fon
 * Prototipo de alta fidelidad
     https://www.figma.com/file/bZIv7OtI8FI1I7Gj0nJ31y/Studio-Ghibli?type=whiteboard&node-id=0-1&t=1QKWkoXXPV8jUBr2-0
 
-Testeos de usabilidad
-Durante el reto deberás hacer tests de usabilidad con distintos usuarios, y con base en los resultados, deberás iterar tus diseños. Cuéntanos qué problemas de usabilidad detectaste a través de los tests y cómo los mejoraste en tu propuesta final.
+## 4. Testeos de usabilidad
+* Diseño 
+   La imagen de fondo daba la sensación de pixeleado 
+   Las letras
+* Interacción
+
+ Cuéntanos qué problemas de usabilidad detectaste a través de los tests y cómo los mejoraste en tu propuesta final.
 
 Implementación de la Interfaz de Usuario (HTML/CSS/JS)
 Luego de diseñar tu interfaz de usuario deberás trabajar en su implementación. No es necesario que construyas la interfaz exactamente como la diseñaste. Tu tiempo de hacking es escaso, así que deberás priorizar.
