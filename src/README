@@ -173,7 +173,7 @@ Los usuarios pueden filtrar la información según sus intereses e ir más a fon
 * Interacción
     El responsive dejó de funcionar y no se ajustaba a las diferentes pantallas, se solucionó en el último sprint y ahora funciona
     Al principio se agregó toda la información en la misma página y se saturaba la pantalla, se agregó una hoja por película con la información de personajes, vehículos y locaciones para evitar esta saturación
-    Se detectó que el hover y el menú no eran tan intuitivos como pensabamos, se agregaron instrucciones. 
+    Se detectó que el hover y el menú no eran tan intuitivos como pensabamos, se agregaron instrucciones
 
 
 
